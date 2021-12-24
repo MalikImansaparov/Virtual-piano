@@ -5,3 +5,16 @@
 Demo: https://virtual-piano-js.netlify.app/
 ##### Virtual piano is the perfect fit when you don’t have a real piano keyboard at home or if your piano or keyboard aren't located next to a computer
 
+ ### Features
+* Playing keyboard and mouse
+* Switch letters and notes mode 
+* Switch fullscreen
+
+
+### Technologies used:
+* HTML5
+* CSS3
+* JavaScript
+* Fullscreen API
+
+
